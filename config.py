@@ -1,8 +1,8 @@
-BOT_TOKEN = "8334378872:AAGktTROJZrdqcVrOn10KXrVjmvX2RyH9RY"
+BOT_TOKEN = ""
 
 EMAIL = "tejamuppanasetti@gmail.com"
 
-APP_PASSWORD = "re_PmJQXk43_2MiaEWckWnuZvH5XbrSB71dW"
+APP_PASSWORD = ""
 
 SUBJECT = "Application for Python Developer | Gen AI Engineer"
 
