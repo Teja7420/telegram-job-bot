@@ -1,4 +1,4 @@
-BOT_TOKEN = "8730309514:AAGBTAfQKq_IhTWqkOSWfRkG7D5AvuW3c40"
+BOT_TOKEN = "8334378872:AAGktTROJZrdqcVrOn10KXrVjmvX2RyH9RY"
 
 EMAIL = "tejamuppanasetti@gmail.com"
 
