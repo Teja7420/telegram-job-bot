@@ -1,9 +1,9 @@
-BOT_TOKEN = "8334378872:AAFrFkI-R5dG5-dzM1qyuTQgfV6rfyGm_mc"
+BOT_TOKEN = "8730309514:AAGBTAfQKq_IhTWqkOSWfRkG7D5AvuW3c40"
 
 EMAIL = "tejamuppanasetti@gmail.com"
 
 APP_PASSWORD = "onrb njho batc pwmp"
 
-SUBJECT = "Application for Software Engineer Position"
+SUBJECT = "Application for Python Developer | Gen AI Engineer"
 
 RESUME_PATH = "resume/Teja's-muppanasetti.pdf"
